@@ -17,7 +17,7 @@ Hack On The Kitchen Sink is a vibrant and inclusive GitHub organization that bri
 
 - Limited Slots: Hack On The Kitchen Sink is limited to a maximum of 3000 members to maintain a vibrant and manageable community.
 - Inclusive Membership: We welcome individuals from all domains, including software developers, AI engineers, product designers, writers, and more. Diverse perspectives drive innovation, and whosoever sees potentiality.
-- Subscription-Based Model: Choose between a 3-month recurrent subscription at $5 or an annual subscription at $50 to sustain the organization and support collaborative initiatives.
+- Subscription-Based Model: Choose between a 3-month recurrent subscription at $5 or an annual subscription at $20 to sustain the organization and support collaborative initiatives.
 
 ## Collaboration and Governance
 
