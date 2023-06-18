@@ -1,8 +1,6 @@
 # Hack On The Kitchen Sink
 
-<div style="text-align: center;">
-  ![Logo](https://github.com/hackinsync/hackinsync/blob/90dcb3af5c6e04188e3751c3a4c26c92ba7a8a87/hackinsync.png)
-</div>
+<img src="https://raw.githubusercontent.com/hackinsync/hackinsync/90dcb3af5c6e04188e3751c3a4c26c92ba7a8a87/hackinsync.png" style="text-align: center; display: block; margin: auto">
 
 ## Introduction
 
