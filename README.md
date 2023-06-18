@@ -5,7 +5,8 @@
 > For all the calories<br/>
 > That were supposed to adorn my face,<br/>
 > They went with the torment of the grind.<br/>
-— Jedidiah Gabriel
+
+<b>— Jedidiah Gabriel<b>
 
 
 ## Introduction
