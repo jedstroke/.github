@@ -1,5 +1,9 @@
 # Hack On The Kitchen Sink
 
+<div style="text-align: center;">
+  ![Logo](https://github.com/hackinsync/hackinsync/blob/90dcb3af5c6e04188e3751c3a4c26c92ba7a8a87/hackinsync.png)
+</div>
+
 ## Introduction
 
 Hack On The Kitchen Sink is a vibrant and inclusive GitHub organization that brings together a diverse community of individuals passionate about technology, innovation, and collaboration. We aim to create a platform where members from various backgrounds can contribute and collaborate on exciting projects.
@@ -28,7 +32,7 @@ Hack On The Kitchen Sink is a vibrant and inclusive GitHub organization that bri
 
 Visit our [GitHub organization page] (https://jedshock.com/#syncWhitepaper) to become a member and explore the endless possibilities of collaboration.
 
-[Contact Information]
+### Contact Information
 - Website: [Your Website](https://jedshock.com)
 - Email: [Your Email](mailto:jedidiah@jedshock.com)
 - Social Media: [Twitter](https://twitter.com/hackinsync), [LinkedIn](https://linkedin.com/company/hackinsync) 
