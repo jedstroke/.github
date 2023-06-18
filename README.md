@@ -2,9 +2,9 @@
 
 <img src="https://raw.githubusercontent.com/hackinsync/hackinsync/main/hackinsync.png" style="text-align: center; display: block; margin: auto">
 
-> For all the calories
-> That were supposed to adorn my face,
-> They went with the torment of the grind.
+> For all the calories<br/>
+> That were supposed to adorn my face,<br/>
+> They went with the torment of the grind.<br/>
 — Jedidiah Gabriel
 
 
