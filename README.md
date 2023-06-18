@@ -28,7 +28,7 @@ Hack On The Kitchen Sink is a vibrant and inclusive GitHub organization that bri
 
 ## Join Us
 
-Visit our [GitHub organization page] (https://jedshock.com/#syncWhitepaper) to become a member and explore the endless possibilities of collaboration.
+Visit our [GitHub organization page](https://jedshock.com/#syncWhitepaper) to become a member and explore the endless possibilities of collaboration.
 
 ### Contact Information
 - Website: [Your Website](https://jedshock.com)
