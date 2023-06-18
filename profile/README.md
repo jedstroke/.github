@@ -38,6 +38,6 @@ Hack On The Kitchen Sink is a vibrant and inclusive GitHub organization that bri
 Visit our [GitHub organization page](https://jedshock.com/#syncWhitepaper) to become a member and explore the endless possibilities of collaboration.
 
 ### Contact Information
-- Website: [https://jedshock.com](https://jedshock.com)
-- Email: [jedidiah@jedshock.com](mailto:jedidiah@jedshock.com)
+- Website: [https://jedshock.com](https://jedshock.com/#syncWhitepaper)
+- Email: [hackinsync@jedshock.com](mailto:hackinsync@jedshock.com)
 - Social Media: [Twitter](https://twitter.com/hackinsync), [LinkedIn](https://linkedin.com/company/hackinsync) 
