@@ -1,6 +1,12 @@
 # Hack On The Kitchen Sink
 
-<img src="https://raw.githubusercontent.com/hackinsync/hackinsync/90dcb3af5c6e04188e3751c3a4c26c92ba7a8a87/hackinsync.png" style="text-align: center; display: block; margin: auto">
+<img src="https://raw.githubusercontent.com/hackinsync/hackinsync/main/hackinsync.png" style="text-align: center; display: block; margin: auto">
+
+> For all the calories
+> That were supposed to adorn my face,
+> They went with the torment of the grind.
+— Jedidiah Gabriel
+
 
 ## Introduction
 
