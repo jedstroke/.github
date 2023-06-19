@@ -2,42 +2,45 @@
 
 <img src="https://raw.githubusercontent.com/hackinsync/.github/main/Symbol.png" style="text-align: center; display: block; margin: auto">
 
-> For all the calories<br/>
-> That were supposed to adorn my face,<br/>
-> Thus, went with the torment of the grind.<br/>
-
-<b>— Jedidiah Gabriel<b>
-
+> For all the calories<br>
+> That were supposed to adorn my face,<br>
+> Thus, went with the torment of the grind.<br>
+>
+> — Jedidiah Gabriel
 
 ## Introduction
 
-Hack On The Kitchen Sink is a vibrant and inclusive GitHub organization that brings together a diverse community of individuals passionate about technology, innovation, and collaboration. We aim to create a platform where members from various backgrounds can contribute and collaborate on exciting projects.
+Hack On The Kitchen Sink is a vibrant and inclusive GitHub organization that brings together a diverse community of individuals passionate about technology, innovation, and collaboration. We provide an exciting platform for members to collaborate on projects, accelerate learning, and seize opportunities for personal and professional growth.
 
 ## Membership
 
-- Limited Slots: Hack On The Kitchen Sink is limited to a maximum of 3000 members to maintain a vibrant and manageable community.
-- Inclusive Membership: We welcome individuals from all domains, including software developers, AI engineers, product designers, writers, and more. Diverse perspectives drive innovation, and whosoever sees potentiality.
-- Subscription-Based Model: Choose between a 3-month recurrent subscription at $5 or an annual subscription at $20 to sustain the organization and support collaborative initiatives.
+- Limited Slots: Hack On The Kitchen Sink is limited to a maximum of 3000 members to maintain an active and engaged community.
+- Inclusive Membership: We welcome individuals from all backgrounds, skill levels, and areas of expertise. Whether you're a software developer, AI engineer, designer, writer, or anyone with a passion for technology, there's a place for you here.
+- Subscription-Based Model: To sustain the organization and support collaborative initiatives, we offer two membership options:
+  - **3-Month Recurrent Subscription**: Join us for a recurring subscription of $5 every 3 months.
+  - **Annual Subscription**: Commit to a full year of membership for $20.
 
 ## Collaboration and Governance
 
-- Collaborative Projects: When our membership reaches 3000, we establish an agreed governance model, allowing all members to collaborate on the seed project (<a href="https://www.loom.com/share/73509ac9230c4a3f8b09d1a52b41dd9d" target="_blank">CBTWeb3</a>) and future initiatives.
-- Infrastructural Costs: Idea founders or collaborators are responsible for providing minimal infrastructural costs for project development. We encourage shared efforts and ownership.
+- Collaborative Projects: When our membership reaches 3000, we establish an agreed governance model that allows all members to actively collaborate on the seed project, CBTWeb3, and future initiatives.
+- Infrastructural Costs: For every idea or project proposal, the founders or collaborators are responsible for providing minimal infrastructural costs to aid development. We encourage shared efforts and the collective ownership of projects.
 
 ## Motivation and Governance Model
 
-- Maximizing Profitability and Ownership: Our core motivation is to empower members to bootstrap projects together, mitigating burnout and maximizing profitability and ownership.
-- Transparent Governance: Our governance model is collectively developed, ensuring fairness, transparency, and accountability.
+- Maximizing Profitability and Ownership: Our core motivation is to empower members to bootstrap projects together, mitigating burnout and maximizing profitability and ownership. By working collaboratively, we can achieve more significant outcomes and foster a strong sense of community.
+- Transparent Governance: We believe in a transparent governance model where decisions are made collectively, ensuring fairness, accountability, and inclusivity.
 
 ## Subscription Policy
 
-- Non-Refundable: Subscription fees contribute to sustaining the organization, supporting projects, and providing resources. Please evaluate your commitment before subscribing.
+- Non-Refundable: Subscription fees contribute to sustaining the organization, supporting projects, and providing necessary resources. Please carefully evaluate your commitment before subscribing.
 
 ## Join Us
 
-Visit our [GitHub organization page](https://jedshock.com/#syncWhitepaper) to become a member and explore the endless possibilities of collaboration.
+Visit our [GitHub organization page](https://github.com/hackinsync) to become a member and explore the endless possibilities of collaboration.
 
 ### Contact Information
-- Website: [https://jedshock.com](https://jedshock.com/#syncWhitepaper)
+- Website: [https://jedshock.com](https://jedshock.com)
 - Email: [hackinsync@jedshock.com](mailto:hackinsync@jedshock.com)
-- Social Media: [Twitter](https://twitter.com/hackinsync), [LinkedIn](https://linkedin.com/company/hackinsync) 
+- Social Media: [Twitter](https://twitter.com/hackinsync), [LinkedIn](https://linkedin.com/company/hackinsync)
+
+Additionally, Hack On The Kitchen Sink can be considered a bootcamp for individuals looking to accelerate their learning pace. By actively participating in our community, members have the opportunity to gain valuable knowledge, experience, and potentially be a part of something big. We provide an environment that fosters growth and enables individuals to connect with like-minded individuals and explore exciting opportunities.
