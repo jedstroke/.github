@@ -21,7 +21,7 @@ Hack On The Kitchen Sink is a vibrant and inclusive GitHub organization that bri
 
 ## Collaboration and Governance
 
-- Collaborative Projects: When our membership reaches 3000, we establish an agreed governance model, allowing all members to collaborate on the seed project (CBTWeb3) and future initiatives.
+- Collaborative Projects: When our membership reaches 3000, we establish an agreed governance model, allowing all members to collaborate on the seed project (<a href="https://www.loom.com/share/73509ac9230c4a3f8b09d1a52b41dd9d" target="_blank">CBTWeb3</a>) and future initiatives.
 - Infrastructural Costs: Idea founders or collaborators are responsible for providing minimal infrastructural costs for project development. We encourage shared efforts and ownership.
 
 ## Motivation and Governance Model
