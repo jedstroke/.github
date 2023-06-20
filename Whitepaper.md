@@ -36,11 +36,22 @@ Hack On The Kitchen Sink is a vibrant and inclusive GitHub organization that bri
 
 ## Join Us
 
-Visit our [GitHub organization page](https://github.com/hackinsync) to become a member and explore the endless possibilities of collaboration.
+Visit our [GitHub organization page](https://jedshock.com/#syncWhitepaper) to become a member and explore the endless possibilities of collaboration.
 
 ### Contact Information
 - Website: [https://jedshock.com](https://jedshock.com)
 - Email: [hackinsync@jedshock.com](mailto:hackinsync@jedshock.com)
 - Social Media: [Twitter](https://twitter.com/hackinsync), [LinkedIn](https://linkedin.com/company/hackinsync)
 
+### Please Spread The Word With Potential Members Let's Get To 3k 🚀 ❤ ⚡
+#### Whitepaper
+```html
+https://github.com/hackinsync/
+```
+#### Website (for signing up)
+```html
+https://jedshock.com/#syncWhitepaper
+```
+### PS
+And note your subscription(s) will be dormant (meaning it won't be counting toward its expiration, and you're subscribed and waiting for launch) until we have gained 3000 members & a collectively established governance model then everyone can access the seed project and other future initiatives.
 Additionally, Hack On The Kitchen Sink can be considered a bootcamp for individuals looking to accelerate their learning pace. By actively participating in our community, members have the opportunity to gain valuable knowledge, experience, and potentially be a part of something big. We provide an environment that fosters growth and enables individuals to connect with like-minded individuals and explore exciting opportunities.
