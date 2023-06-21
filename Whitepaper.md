@@ -52,6 +52,6 @@ https://github.com/hackinsync/
 ```html
 https://jedshock.com/#syncWhitepaper
 ```
-### PS
+### Foot Note
 And note your subscription(s) will be dormant (meaning it won't be counting toward its expiration, and you're subscribed and waiting for launch) until we have gained 3000 members & a collectively established governance model then everyone can access the seed project and other future initiatives.
-Additionally, Hack On The Kitchen Sink can be considered a bootcamp for individuals looking to accelerate their learning pace. By actively participating in our community, members have the opportunity to gain valuable knowledge, experience, and potentially be a part of something big. We provide an environment that fosters growth and enables individuals to connect with like-minded individuals and explore exciting opportunities.
+Additionally, Hack On The Kitchen Sink can be considered a bootcamp for individuals looking to accelerate their learning pace. By actively participating in our community, members have the opportunity to gain valuable knowledge, and experience, and potentially be a part of something big. We provide an environment that fosters growth and enables individuals to connect with like-minded individuals and explore exciting opportunities.
