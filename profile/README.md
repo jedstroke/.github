@@ -2,9 +2,9 @@
 
 <img src="https://raw.githubusercontent.com/hackinsync/.github/main/Symbol.png" style="text-align: center; display: block; margin: auto">
 
-> For all the calories<br>
-> That were supposed to adorn my face,<br>
-> Thus, went with the torment of the grind.<br>
+> <i>For all the calories</i><br>
+> <i>That were supposed to adorn my face,</i><br>
+> <i>Thus, went with the torment of the grind.</i><br>
 >
 > — Jedidiah Gabriel
 
@@ -43,7 +43,7 @@ Visit our [GitHub organization page](https://jedshock.com/#syncWhitepaper) to be
 - Email: [hackinsync@jedshock.com](mailto:hackinsync@jedshock.com)
 - Social Media: [Twitter](https://twitter.com/hackinsync), [LinkedIn](https://linkedin.com/company/hackinsync)
 
-### Please Spread The Word With Potential Members Let's Get To 3k 🚀 ❤ ⚡
+### Please Spread The Word With Potential Members Let's Get To 3k ⚡
 #### Whitepaper
 ```html
 https://github.com/hackinsync/
@@ -54,4 +54,4 @@ https://jedshock.com/#syncWhitepaper
 ```
 ### Foot Note
 And note your subscription(s) will be dormant (meaning it won't be counting toward its expiration, and you're subscribed and waiting for launch) until we have gained 3000 members & a collectively established governance model then everyone can access the seed project and other future initiatives.
-Additionally, Hack On The Kitchen Sink can be considered a bootcamp for individuals looking to accelerate their learning pace. By actively participating in our community, members have the opportunity to gain valuable knowledge, and experience, and potentially be a part of something big. We provide an environment that fosters growth and enables individuals to connect with like-minded individuals and explore exciting opportunities. <a href="https://genius.com/Twenty-one-pilots-kitchen-sink-lyrics" target="_blank">And listen to Kitchen Sink 🎧</a>
+Additionally, Hack On The Kitchen Sink can be considered a bootcamp for individuals looking to accelerate their learning pace. By actively participating in our community, members have the opportunity to gain valuable knowledge, and experience, and potentially be a part of something big. We provide an environment that fosters growth and enables individuals to connect with like-minded individuals and explore exciting opportunities. <a href="https://genius.com/Twenty-one-pilots-kitchen-sink-lyrics" target="_blank">And listen to Kitchen Sink 🚀</a>
