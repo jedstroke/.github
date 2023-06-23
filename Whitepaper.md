@@ -22,7 +22,7 @@ Hack On The Kitchen Sink is a vibrant and inclusive GitHub organization that bri
 
 ## Collaboration and Governance
 
-- Collaborative Projects: When our membership reaches 3000, we establish an agreed governance model that allows all members to actively collaborate on the seed project, <a href="https://jedshock.com#CBTWeb3" target="_blank">CBTWeb3<a/>, and future initiatives.
+- Collaborative Projects: When our membership reaches 3000, we establish an agreed governance model that allows all members to actively collaborate on the seed project, <a href="https://jedshock.com#CBTWeb3" target="_blank"><i>CBTWeb3</i><a/>, and future initiatives.
 - Infrastructural Costs: For every idea or project proposal, the founders or collaborators are responsible for providing minimal infrastructural costs to aid development. We encourage shared efforts and the collective ownership of projects.
 
 ## Motivation and Governance Model
@@ -54,4 +54,4 @@ https://jedshock.com/#syncWhitepaper
 ```
 ### Foot Note
 And note your subscription(s) will be dormant (meaning it won't be counting toward its expiration, and you're subscribed and waiting for launch) until we have gained 3000 members & a collectively established governance model then everyone can access the seed project and other future initiatives.
-Additionally, Hack On The Kitchen Sink can be considered a bootcamp for individuals looking to accelerate their learning pace. By actively participating in our community, members have the opportunity to gain valuable knowledge, and experience, and potentially be a part of something big. We provide an environment that fosters growth and enables individuals to connect with like-minded individuals and explore exciting opportunities. <a href="https://genius.com/Twenty-one-pilots-kitchen-sink-lyrics" target="_blank">And listen to Kitchen Sink 🚀</a>
+Additionally, Hack On The Kitchen Sink can be considered a bootcamp for individuals looking to accelerate their learning pace. By actively participating in our community, members have the opportunity to gain valuable knowledge, and experience, and potentially be a part of something big. We provide an environment that fosters growth and enables individuals to connect with like-minded individuals and explore exciting opportunities. <a href="https://genius.com/Twenty-one-pilots-kitchen-sink-lyrics" target="_blank">And listen to <i>Kitchen Sink</i> 🚀</a>
